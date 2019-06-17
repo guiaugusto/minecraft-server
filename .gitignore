@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!docker-compose.yml
+!Dockerfile
+!server-icon.png
+!server.properties
+!craftbukkit-1.14.2-R0.1-SNAPSHOT.jar
