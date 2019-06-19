@@ -5,4 +5,4 @@ services:
     ports:
       - 25565:25565
     volumes:
-      - ./config:/data
+      - .:/data

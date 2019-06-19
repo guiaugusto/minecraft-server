@@ -13,4 +13,4 @@ COPY . .
 EXPOSE 25565
 
 # Automatically accept Minecraft EULA, and start Minecraft server
-CMD echo eula=true > /data/eula.txt && java -Xms4G -jar ./craftbukkit-1.14.2-R0.1-SNAPSHOT.jar nogui --noconsole
+CMD echo eula=true > /data/eula.txt && java -Xms2G -jar ./craftbukkit-1.14.2-R0.1-SNAPSHOT.jar nogui --noconsole
