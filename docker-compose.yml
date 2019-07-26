@@ -3,6 +3,6 @@ services:
   server:
     build: .
     ports:
-      - 25565:25565
+      - 80:25565
     volumes:
       - .:/data
