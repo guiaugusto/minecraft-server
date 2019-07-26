@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-07-18 19:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-07-18 19:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-07-18 19:16:30 +0000",
+      "minecraft:wooded_hills": "2019-07-18 19:16:55 +0000",
+      "minecraft:plains": "2019-07-18 19:14:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-07-18 19:17:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 1963
+}
