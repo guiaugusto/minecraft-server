@@ -1,75 +1,22 @@
-[00:08:24] [Server thread/INFO]: p_q[/186.213.220.172:10414] logged in with entity id 338035 at (-2017.496854465223, 74.0, 2929.3605462922164)
-[00:08:24] [Server thread/INFO]: p_q joined the game
-[00:08:33] [Server thread/INFO]: <Bahamut97> ta discord
-[00:08:58] [Server thread/INFO]: <p_q> calma ai
-[00:09:00] [Server thread/INFO]: <p_q> pc lento
-[00:09:50] [Server thread/INFO]: <p_q> vc tem alsapão ai
-[00:09:56] [Server thread/INFO]: <Bahamut97> nao
-[00:17:06] [Server thread/INFO]: p_q lost connection: Disconnected
-[00:17:06] [Server thread/INFO]: p_q left the game
-[00:17:16] [Server thread/INFO]: p_q[/186.213.220.172:10549] logged in with entity id 339461 at (-2022.495414458841, 72.0, 2921.699999988079)
-[00:17:16] [Server thread/INFO]: p_q joined the game
-[00:28:12] [Server thread/INFO]: p_q lost connection: Disconnected
-[00:28:12] [Server thread/INFO]: p_q left the game
-[00:28:22] [Server thread/INFO]: p_q[/186.213.220.172:10654] logged in with entity id 341255 at (-2024.2169338722474, 71.0, 2919.699999988079)
-[00:28:22] [Server thread/INFO]: p_q joined the game
-[00:38:52] [Server thread/INFO]: p_q lost connection: Disconnected
-[00:38:52] [Server thread/INFO]: p_q left the game
-[00:38:59] [Server thread/INFO]: p_q[/186.213.220.172:10742] logged in with entity id 342838 at (-2026.872469847903, 70.0, 2910.5692267883705)
-[00:38:59] [Server thread/INFO]: p_q joined the game
-[00:52:46] [Server thread/INFO]: p_q lost connection: Disconnected
-[00:52:46] [Server thread/INFO]: p_q left the game
-[00:52:51] [Server thread/INFO]: p_q[/186.213.220.172:10841] logged in with entity id 344830 at (-2011.8862592712808, 77.5, 2942.191863967918)
-[00:52:51] [Server thread/INFO]: p_q joined the game
-[00:53:20] [Server thread/WARN]: Bahamut97 moved wrongly!
-[01:06:38] [Server thread/INFO]: Bahamut97 lost connection: Disconnected
-[01:06:38] [Server thread/INFO]: Bahamut97 left the game
-[01:06:53] [Server thread/INFO]: Bahamut97[/177.235.161.149:49456] logged in with entity id 347992 at (-2027.73120680007, 16.0, 3177.9397082218593)
-[01:06:53] [Server thread/INFO]: Bahamut97 joined the game
-[01:19:50] [Server thread/INFO]: Bahamut97 lost connection: Disconnected
-[01:19:50] [Server thread/INFO]: Bahamut97 left the game
-[01:20:05] [Server thread/INFO]: Bahamut97[/177.235.161.149:49478] logged in with entity id 351227 at (-2016.1491312515434, 52.0, 2847.892729492352)
-[01:20:05] [Server thread/INFO]: Bahamut97 joined the game
-[01:28:04] [Server thread/INFO]: Bahamut97 lost connection: Disconnected
-[01:28:04] [Server thread/INFO]: Bahamut97 left the game
-[01:48:59] [Server thread/INFO]: p_q lost connection: Disconnected
-[01:48:59] [Server thread/INFO]: p_q left the game
-[04:46:20] [Server thread/INFO]: Bahamut97[/177.235.161.149:50631] logged in with entity id 355114 at (-2126.8135985087406, 44.0, 2830.300000011921)
-[04:46:20] [Server thread/INFO]: Bahamut97 joined the game
-[04:53:27] [Server thread/INFO]: Bugado[/179.214.42.247:51079] logged in with entity id 356349 at (-2175.859937689685, 71.0, 2928.6057912015776)
-[04:53:27] [Server thread/INFO]: Bugado joined the game
-[04:59:50] [Server thread/WARN]: Bahamut97 moved wrongly!
-[05:04:44] [Server thread/INFO]: Bugado lost connection: Disconnected
-[05:04:44] [Server thread/INFO]: Bugado left the game
-[05:04:53] [Server thread/INFO]: Bugado[/179.214.42.247:51093] logged in with entity id 358714 at (-2158.67715502879, 82.0, 2942.224877557908)
-[05:04:53] [Server thread/INFO]: Bugado joined the game
-[05:17:34] [Server thread/INFO]: Bahamut97 lost connection: Disconnected
-[05:17:34] [Server thread/INFO]: Bahamut97 left the game
-[05:18:00] [Server thread/INFO]: Bahamut97[/177.235.161.149:50733] logged in with entity id 362199 at (-1990.4311507502807, 9.0, 3157.745608940497)
-[05:18:00] [Server thread/INFO]: Bahamut97 joined the game
-[05:27:23] [Server thread/WARN]: Bugado moved too quickly! -0.018859421324123105,0.16779664663324922,10.1522402016235
-[05:40:50] [Server thread/INFO]: Bahamut97 lost connection: Disconnected
-[05:40:50] [Server thread/INFO]: Bahamut97 left the game
-[05:41:05] [Server thread/INFO]: Bahamut97[/177.235.161.149:50789] logged in with entity id 367721 at (-2094.186110424767, 63.0, 2894.5945095778943)
-[05:41:05] [Server thread/INFO]: Bahamut97 joined the game
-[05:45:13] [Server thread/INFO]: Bugado lost connection: Disconnected
-[05:45:13] [Server thread/INFO]: Bugado left the game
-[05:47:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[06:05:42] [Server thread/INFO]: Bahamut97 lost connection: Disconnected
-[06:05:42] [Server thread/INFO]: Bahamut97 left the game
-[13:47:24] [Server thread/INFO]: p_q[/186.213.220.172:12939] logged in with entity id 371375 at (-2016.94419150867, 52.0, 2848.0916512172353)
-[13:47:24] [Server thread/INFO]: p_q joined the game
-[13:53:01] [Server thread/INFO]: p_q lost connection: Disconnected
-[13:53:01] [Server thread/INFO]: p_q left the game
-[13:53:37] [Server thread/INFO]: p_q[/186.213.220.172:12981] logged in with entity id 371976 at (-2009.2669626068339, 52.0, 2850.803307903862)
-[13:53:37] [Server thread/INFO]: p_q joined the game
-[13:55:49] [Server thread/INFO]: p_q lost connection: Disconnected
-[13:55:49] [Server thread/INFO]: p_q left the game
-[14:07:13] [Server thread/INFO]: p_q[/186.213.220.172:13311] logged in with entity id 372199 at (-2014.6758108308434, 52.0, 2850.3208371728747)
-[14:07:13] [Server thread/INFO]: p_q joined the game
-[14:09:38] [Server thread/INFO]: p_q lost connection: Disconnected
-[14:09:38] [Server thread/INFO]: p_q left the game
-[14:11:58] [Server thread/INFO]: p_q[/186.213.220.172:13372] logged in with entity id 372459 at (-2009.665287550923, 52.0, 2840.950808393543)
-[14:11:58] [Server thread/INFO]: p_q joined the game
-[14:35:22] [Server thread/INFO]: p_q lost connection: Disconnected
-[14:35:22] [Server thread/INFO]: p_q left the game
+[13:20:36] [Server thread/INFO]: p_q[/179.183.108.185:2308] logged in with entity id 674047 at (-609.0913132997048, 53.0, 659.5472603654321)
+[13:20:36] [Server thread/INFO]: p_q joined the game
+[13:30:06] [Server thread/INFO]: p_q lost connection: Disconnected
+[13:30:06] [Server thread/INFO]: p_q left the game
+[13:32:46] [Server thread/INFO]: p_q[/179.183.108.185:2508] logged in with entity id 675019 at (-626.8142277489139, 60.0, 675.8243098027116)
+[13:32:46] [Server thread/INFO]: p_q joined the game
+[13:37:42] [Server thread/INFO]: p_q lost connection: Disconnected
+[13:37:42] [Server thread/INFO]: p_q left the game
+[13:43:48] [Server thread/INFO]: p_q[/179.183.108.185:2662] logged in with entity id 675556 at (-647.5366354965817, 67.0, 663.4153512109217)
+[13:43:48] [Server thread/INFO]: p_q joined the game
+[13:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
+[13:46:20] [Server thread/INFO]: p_q has completed the challenge [Return to Sender]
+[13:58:39] [Server thread/INFO]: p_q lost connection: Disconnected
+[13:58:39] [Server thread/INFO]: p_q left the game
+[14:03:21] [Server thread/INFO]: p_q[/179.183.108.185:2794] logged in with entity id 676992 at (-271.1017546171409, 77.0, 363.7765958907174)
+[14:03:21] [Server thread/INFO]: p_q joined the game
+[14:11:23] [Server thread/INFO]: p_q lost connection: Disconnected
+[14:11:23] [Server thread/INFO]: p_q left the game
+[14:12:20] [Server thread/INFO]: p_q[/179.183.108.185:2912] logged in with entity id 678199 at (-2017.6390441696212, 69.0, 2864.94851909711)
+[14:12:20] [Server thread/INFO]: p_q joined the game
+[17:22:30] [Server thread/INFO]: p_q lost connection: Disconnected
+[17:22:30] [Server thread/INFO]: p_q left the game

@@ -1,13 +1,55 @@
 {
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-07-18 19:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-07-18 19:17:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_log": "2019-07-18 19:17:33 +0000"
+      "in_water": "2019-07-31 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-07-31 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-07-31 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-07-31 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-07-31 17:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-07-31 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-07-31 17:38:52 +0000"
     },
     "done": true
   },
@@ -25,5 +67,5 @@
     },
     "done": true
   },
-  "DataVersion": 1963
+  "DataVersion": 1976
 }

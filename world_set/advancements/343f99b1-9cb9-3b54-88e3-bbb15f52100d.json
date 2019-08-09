@@ -3396,6 +3396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-07-28 10:58:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-07-14 01:12:27 +0000"
